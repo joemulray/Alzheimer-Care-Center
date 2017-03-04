@@ -1,7 +1,5 @@
 # Alzheimer-Care-Center
 
-```git clone https://github.com/joemulray/Alzheimer-Care-Center```
-
 Relational DBMS for the scheduling and data collection of the patients in an alzheimer’s care center. It will consist of entering, storing, and exporting data on the day-to-day activities of Alzheimer’s patients. 
 
 
@@ -11,4 +9,4 @@ Alzheimer's care involves a huge amount of data collection and analysis. In an i
 Application DescriptionThis application will serve as a relational DBMS for the scheduling and data collection of the patients in an alzheimer’s care center. It will consist of entering, storing, and exporting data on the day-to-day activities of Alzheimer’s patients. The most important (and challenging) feature of this application is variability. Alzheimer’s care is a constantly growing field, and a DBMS supporting it needs to flexible enough to afford for changing research initiatives and goals. Data views and analysis are outside the declared scope of this application, though rudimentary viewing may be a part of the final product.
 
 ##Industry
-Data collection in Alzheimer’s care is done with the goal of monitoring the state of patients and adjusting general care practices to their individual needs. While sophisticated systems exist for this. Smaller, less-connected centers (as well as people practicing home care) do not have the resources to support such systems.
+Data collection in Alzheimer’s care is done with the goal of monitoring the state of patients and adjusting general care practices to their individual needs. While sophisticated systems exist for this. Smaller, less-connected centers (as well as people practicing home care) do not have the resources to support such systems.
