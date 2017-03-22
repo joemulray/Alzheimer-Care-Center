@@ -121,7 +121,7 @@ insert into Medication (pname, pID, drug) values ('Kevin Jones', 2, 'Heart Medic
 
 insert into Outings (activity, aname, pname, aID, pID, startTime, endTime, location) values ('Bingo', 'Karen Wat', 'Mike Switch', 5, 3, to_date('2016-09-30 01:00:00', 'yyyy-mm-dd HH24:MI:SS'), to_date('2016-09-30 20:00:00', 'yyyy-mm-dd HH24:MI:SS'), 'Theater');
 insert into Outings (activity, aname, pname, aID, pID, startTime, endTime, location) values ('Reading', 'Brian Thompson', 'Jane Doe', 6, 1, to_date('2016-09-15 05:00:00', 'yyyy-mm-dd HH24:MI:SS'), to_date('2016-09-30 1:00:00', 'yyyy-mm-dd HH24:MI:SS'), 'Room');
-insert into Outings (activity, aname, pname, aID, pID, startTime, endTime, location) values ('Exercise', 'Martha Bland', 'David Ackerson', 4, 5, to_date('2016-08-03 05:00:00', 'yyyy-mm-dd HH24:MI:SS'), to_date('2016-08-03 06:00:00', 'yyyy-mm-dd HH24:MI:SS'), 'Theater');  
+insert into Outings (activity, aname, pname, aID, pID, startTime, endTime, location) values ('Exercise', 'Martha Bland', 'David Ackerson', 4, 5, to_date('2016-08-03 05:00:00', 'yyyy-mm-dd HH24:MI:SS'), to_date('2016-08-03 06:00:00', 'yyyy-mm-dd HH24:MI:SS'), 'Gym');  
 
 insert into Checkins (aname, pname, aID, pID, time) values ('Joann Driggs', 'Joseph Easy', 3, 4, to_date('2016-08-03 05:00:00', 'yyyy-mm-dd HH24:MI:SS'));
 insert into Checkins (aname, pname, aID, pID, time, sheetID) values ('Bill Gerass', 'Jane Doe', 2, 1, to_date('2016-02-11 12:00:00', 'yyyy-mm-dd HH24:MI:SS'), 2);
